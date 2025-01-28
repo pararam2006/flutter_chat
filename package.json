@@ -1,0 +1,20 @@
+{
+  "name": "flutter_chat",
+  "version": "1.0.0",
+  "description": "Чат на флаттере с беком на socket.io",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
